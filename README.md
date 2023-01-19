@@ -4,5 +4,15 @@ The warehouse is divided into three parts:
 the first part realizes the tracking and segmentation of organoids
 
 
-https://user-images.githubusercontent.com/64136561/213439864-6329421a-07f2-4888-9377-9c872f741358.mp4
+
+The second part shows the quantitative budding and the structural analysis of mouse intestinal organoids.
+<img width="1193" alt="20230119201842" src="https://user-images.githubusercontent.com/64136561/213441361-d9055ab5-7ce0-4ff7-945d-8126f75ce40c.png">
+
+
+
+
+
+
+
+
 
