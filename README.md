@@ -1,6 +1,6 @@
 # OrgaTracker
 Involving in Organoids Growth and Recreation – Development of an Intelligent OrgaTracker System for Multi-Dimensional Organoid Analysis 
-The system is divided into three parts: 
+The system is divided into three parts:   
 ## 1 Organoid_tracking
 The first part realizes organoid tracking and segmentation and organoid fusion capture.
 ![1231](https://user-images.githubusercontent.com/64136561/213462384-be285cfe-f595-4c46-b4cd-31a620fa2615.gif)
