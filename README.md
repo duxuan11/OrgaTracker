@@ -34,12 +34,12 @@ Run the demo:
 ### Organoid_tracking
 ```
 cd OrgaTracker/organoid_tracking/yolov5-unet-track
-python test.py
+python test.py  --data data/image/
 ```
 ### Intestinal_organoid_analysis
 ```
 cd Intestinal_organoids_analysis/crypt_quantization  or cd Intestinal_organoids_analysis/structured_analysis
-python test.py
+python test.py --data data/image/
 ```
 ### Organoid_sketches_to_images
 ```
