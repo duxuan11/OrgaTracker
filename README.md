@@ -32,14 +32,16 @@ pip install -r requirements.txt
 Run the demo:
 ### Organoid_tracking
 ```
+cd OrgaTracker/organoid_tracking/yolov5-unet-track
 python test.py
 ```
 ### Intestinal_organoid_analysis
 ```
+cd Intestinal_organoids_analysis/crypt_quantization  or cd Intestinal_organoids_analysis/structured_analysis
 python test.py
 ```
 ### Organoid_sketches_to_images
 ```
-cd Organoid_sketches_to_images\pix2pix
+cd Organoid_sketches_to_images/pix2pix
 python organ_test.py --dataroot ./datasets/edges2organoids --name edges2organoids_pix2pix --model pix2pix --direction AtoB
 ```
