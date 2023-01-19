@@ -21,9 +21,16 @@ Video: https://user-images.githubusercontent.com/64136561/213444202-5425bb0e-31d
 ---
 Clone this project:
 ```
-git clone 
+git clone git@github.com:duxuan11/OrgaTracker.git
 ```
-
-
-
+##For Pip install
+```
+pip install -r requirements.txt
+```
+##Verify Installation
+Run the demo:
+###organoid tracking
+```
+python test.py
+```
 
