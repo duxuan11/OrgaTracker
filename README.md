@@ -29,7 +29,7 @@ git clone git@github.com:duxuan11/OrgaTracker.git
 ```
 pip install -r requirements.txt
 ```
-## Verify Installation
+## Verify
 Run the demo:
 ### Organoid_tracking
 ```
