@@ -20,7 +20,7 @@ Video: https://user-images.githubusercontent.com/64136561/213444202-5425bb0e-31d
 
 
 # Installation
----
+  
 Clone this project:
 ```
 git clone git@github.com:duxuan11/OrgaTracker.git
