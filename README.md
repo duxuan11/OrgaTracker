@@ -9,11 +9,8 @@ The second part shows the quantitative budding and the structural analysis of mo
 <img width="1182" alt="2023-01-19_202642" src="https://user-images.githubusercontent.com/64136561/213442802-953141e1-93ee-42fb-acb2-5d02c98cf0c3.png">
 <img width="1188" alt="2023-01-19_202917" src="https://user-images.githubusercontent.com/64136561/213443312-7e5575f1-5255-4b16-a341-487718222a64.png">
 
-
-
-
-
-
+The third part shows the generation of organoids from sketches.
+https://user-images.githubusercontent.com/64136561/213444202-5425bb0e-31d6-4b16-9b70-5cf8ee18474d.mp4
 
 
 
