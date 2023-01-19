@@ -9,7 +9,6 @@ The first part realizes organoid tracking and segmentation and organoid fusion c
 The second part shows the quantitative budding and the structural analysis of mouse intestinal organoids from day 0 to day 4.
 <img width="1182" alt="2023-01-19_202642" src="https://user-images.githubusercontent.com/64136561/213442802-953141e1-93ee-42fb-acb2-5d02c98cf0c3.png">
 <img width="1188" alt="2023-01-19_202917" src="https://user-images.githubusercontent.com/64136561/213443312-7e5575f1-5255-4b16-a341-487718222a64.png">
-<img width="1191" alt="_20230119235019" src="https://user-images.githubusercontent.com/64136561/213488960-92a61ece-d6bc-4c1a-9be6-91bb494a4b09.png">
 
 ## 3.Organoid_sketches_to_images
 The third part shows the generation of organoids from sketches.
